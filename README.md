@@ -1,2 +1,3 @@
 # Animal-Trading-Card
-Animal Trading Card Files
+The html and css fot my card
+Also the picture of the card
