@@ -1,0 +1,30 @@
+
+/* add your CSS here */
+.Image {
+	width: 300px;
+	padding-bottom: 1em;	
+}
+.card {
+	border: 1px #CDCDCD;
+	border-style: solid;
+	box-shadow: 10px 10px 10px #CDCDCD;
+	padding: 0 1em 1em;
+	width: 300px;
+	margin: auto;
+}
+.animal-information {
+	border: 1px #CDCDCD;
+	border-style: solid;
+	padding: 0 1em;
+}
+/* Styles */
+.interesting-fact {
+	font-style: italic;
+}
+.strong {
+	font-weight: bold;
+}
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
